@@ -10,7 +10,6 @@
   <img align="center" alt="Calebe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Calebe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Calebe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Calebe-Java" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-download-in-svg-png-gif-file-formats--programming-language-coding-logos-icons-1720088.png?f=webp&w=256">
   <img align="center" alt="Calebe-Node.js" height="30" width="40" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png">
   <img align="center" alt="Calebe-React.js" height="30" width="40" src="https://images.icon-icons.com/2699/PNG/512/reactjs_logo_icon_168875.png">
   <img align="center" alt="Calebe-Express.js" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQML-10ApLtm7qLTU51u6aUCglbORbKdDpZecJZCRoPm5OMNdgWvXqEQ63bHsNr_Rc7Iuw&usqp=CAU">
