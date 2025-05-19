@@ -2,7 +2,7 @@
 
 - 💻 Eu estou estudando: JavaScript, Java, Node.js, React.js, Express.js, PostgreSQL, MySQL, Scrum, UI e UX.
 - 💼 Estou em busca de um Estágio como Desenvolvedor.
-- 📚 Pretenção: Me tornar um Desenvolvedor FullStack em JavaScript.
+- 📚 Pretenção: Me tornar um Desenvolvedor FullStack.
   
   ##
   
