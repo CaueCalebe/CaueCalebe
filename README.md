@@ -43,5 +43,5 @@
 
 ### 👀 Visitantes:
 <div align="center">
-  <img src="https://profile-counter.glitch.me/CaueCalebe/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=CaueCalebe&label=Visitors&color=E94D5F&style=flat-square" alt="Contador de visitantes" />
 </div>
